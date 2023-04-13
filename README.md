@@ -25,3 +25,11 @@ pnpm create next-app --example api-routes api-routes-app
 ```
 
 Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+
+To browse API endpoint 
+
+http://localhost:3000/api/member
+http://localhost:3000/api/people
+
+
+Otherwise calling http://localhost:3000 landing page will call api endpoint above and rendered markup api results with some styles
